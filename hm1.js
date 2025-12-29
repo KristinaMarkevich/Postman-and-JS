@@ -95,6 +95,6 @@
 //32. If age_1 > age_3, output "Keep calm and watch Culture channel" to the console.
 
 
-33. Otherwise, output "Technical work."
+//33. Otherwise, output "Technical work."
 
 
