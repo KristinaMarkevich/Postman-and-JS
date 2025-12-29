@@ -1,10 +1,10 @@
-1. Create the variable "item_1"
+//1. Create the variable "item_1"
 
 
-2. Assign the number 5 to the variable item_1.
+//2. Assign the number 5 to the variable item_1.
 
 
-3. Output item_1 to the console.
+//3. Output item_1 to the console.
 
 
 4. Create the variable "item_2"
