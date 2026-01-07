@@ -1,6 +1,14 @@
 // Write a validation script using functions.
 
 // 1. The script must accept a string as input.
+let email = 'markevich.kr@gmail.com';
+
+if(typeof email === 'string') {
+    console.log('Happy to see you again!')
+}
+    else{
+        console.log('Please, enter email')
+    };
 
 // 2. After validating the string, display a message in the console stating exactly what is wrong with the entered string.
 
