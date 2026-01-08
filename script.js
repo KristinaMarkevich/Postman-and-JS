@@ -13,7 +13,7 @@ if(typeof email === 'string') {
 if (typeof email === 'number'){
     console.log('You entered numbers')
 }
-else if(typeof email === ''){
+else if(typeof email === ' '){
     console.log('You didnt enter anything')
 }
 else if(typeof email === 'boolean'){
