@@ -9,8 +9,7 @@ if(typeof email === 'string') {
         console.log('Please, enter email')
     };
 
-// 2. After validating the string, 
-// display a message in the console stating exactly what is wrong with the entered string.
+// 2. After validating the string, display a message in the console stating exactly what is wrong with the entered string.
 if (typeof email === 'number'){
     console.log('You entered numbers')
 }
