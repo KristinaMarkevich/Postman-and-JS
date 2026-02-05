@@ -69,6 +69,6 @@ else{
 };
 
 // 9. The string must not be empty.
-if(email === ' '){
+if(email === ''){
     console.log('You didnt enter anything')
 };
